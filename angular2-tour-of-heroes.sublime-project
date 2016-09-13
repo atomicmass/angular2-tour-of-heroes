@@ -1,0 +1,17 @@
+{
+	"folders":
+	[
+		{
+			"path": ".",
+			"folder_exclude_patterns": ["node_modules", "typings"],
+			"file_exclude_patterns": ["*.js", "*.map"]
+		}
+	],
+	"build_systems":
+    [
+        {
+            "name": "Node",
+            "shell_cmd": "npm start"
+        }
+    ]
+}

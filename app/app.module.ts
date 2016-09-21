@@ -17,7 +17,8 @@ import { DashboardComponent }  from './dashboard.component';
   declarations: [
     AppComponent,
     HeroDetailComponent,
-    HeroesComponent
+    HeroesComponent,
+    DashboardComponent
   ],
   providers: [
     HeroService
